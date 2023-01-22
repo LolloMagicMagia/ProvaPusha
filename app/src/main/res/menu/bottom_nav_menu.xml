@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/fragmentHome"
+        android:enabled="true"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+
+    <item android:id="@+id/fragmentProfilo"
+        android:enabled="true"
+        android:title="Profilo"
+        android:icon="@drawable/user"/>
+
+    <item android:id="@+id/fragmentSettings"
+        android:enabled="true"
+        android:title="Settings"
+        android:icon="@drawable/settings"/>
+</menu>

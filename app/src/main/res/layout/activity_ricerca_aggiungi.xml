@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="SearchClasses.RicercaEAggiungiActivity">
+
+    <androidx.cardview.widget.CardView
+        app:cardElevation="8dp"
+        app:cardBackgroundColor="@color/white"
+        android:layout_width="400dp"
+        android:layout_marginTop="100dp"
+        android:layout_height="50dp">
+
+        <androidx.appcompat.widget.SearchView
+            android:queryHint="Cos'hai mangiato oggi?"
+            app:iconifiedByDefault="false"
+            android:id="@+id/srchIngredient"
+            android:layout_centerHorizontal="true"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/txt_select"
+        android:visibility="visible"
+        android:textSize="24sp"
+        android:text="Nessun Pasto Selezionato"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/colazione_cercata"
+        android:visibility="gone"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="200dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>

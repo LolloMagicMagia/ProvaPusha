@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="menuFragment.RiassuntoMattina">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:id="@+id/calorie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Calorie: " />
+
+    <TextView
+        android:id="@+id/carboidrati"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Carboidrati: " />
+
+    <TextView
+        android:id="@+id/grassi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Grassi: " />
+
+    <TextView
+        android:id="@+id/Saturi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Saturi: " />
+</LinearLayout>

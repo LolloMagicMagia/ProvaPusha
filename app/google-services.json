@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821771622083",
+    "project_id": "karori-b3226",
+    "storage_bucket": "karori-b3226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821771622083:android:9c23f0bcc376f008c43476",
+        "android_client_info": {
+          "package_name": "com.example.karori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821771622083-4v2f4g48me1jqqkdllhk9bpkfbsj7pib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJcsXI1jXR-e1Yqz98I33-9moiyoVGbQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821771622083-4v2f4g48me1jqqkdllhk9bpkfbsj7pib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

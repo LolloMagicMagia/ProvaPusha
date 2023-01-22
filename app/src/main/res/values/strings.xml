@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Karori</string>
+    <string name="Menu_button">Menù</string>
+    <string name="Carboidrati">Carboidrati</string>
+    <string name="Proteine">Proteine</string>
+    <string name="Grassi">Grassi</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="repeat_password">Confirm Password</string>
+    <string name="welcome">"Welcome"</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="Male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="logo">Logo</string>
+    <string name="info_password"></string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="resetPsw">Insert email for reset your password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_login">Login with Google</string>
+    <string name="Or">Or</string>
+    <string name="new_karori">New to Karori?</string>
+    <string name="api_key">46a966c9b4dc4c8f98176d0f9c11a71e</string>
+</resources>
